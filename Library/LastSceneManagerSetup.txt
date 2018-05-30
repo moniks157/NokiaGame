@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Try Again.unity
+  isLoaded: 1
+  isActive: 1
